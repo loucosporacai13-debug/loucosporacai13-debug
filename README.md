@@ -15,7 +15,7 @@ Aplicação web e Android para registro de ponto, acompanhamento de jornada, his
 
 **Tecnologias:** HTML5, CSS3, JavaScript, Firebase, Cloudflare e Capacitor.
 
-**Status:** desenvolvimento e validações em andamento.
+**Status:** sistema funcional, em evolução contínua, recebendo atualizações e melhorias.
 
 ### 🤖 Robô de automação de chamadas
 Projeto para automatizar o registro de presença e ausência a partir de imagens de listas de chamada, com conferência humana antes da confirmação.
